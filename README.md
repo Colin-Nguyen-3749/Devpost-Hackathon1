@@ -1,1 +1,3 @@
 # Devpost-Hackathon1
+
+This is the repository where I'm aiming to build a website- I'm thinking of making a website that breaks down complex policies. It'll be pretty simple; a policy is displayed on the screen as it's written, and the user has a chance to try and decode it themselves. After they finish their attempt at understanding (or if they give up), they can use an AI chatbot to ask for help. Then, after a simplified version has been obtained, the user can mark whether or not they agree with the policy. 
